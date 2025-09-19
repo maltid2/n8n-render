@@ -35,7 +35,7 @@ services:
       - key: WEBHOOK_URL
         value: https://n8n-render-dg3j.onrender.com
       - key: N8N_ENCRYPTION_KEY
-        value: YOUR_ENCRYPTION_KEY_HERE
+        value: lF7dKqV9pM6sZx8RbT2uNe3JwY1hCg0L
       - key: GENERIC_TIMEZONE
         value: America/Sao_Paulo
       - key: TZ
