@@ -1,0 +1,8 @@
+{
+  "name": "n8n-instagram-chatbot",
+  "version": "2.0.0",
+  "dependencies": {
+    "n8n": "^1.0.0",
+    "instagram-private-api": "^1.45.3"
+  }
+}
